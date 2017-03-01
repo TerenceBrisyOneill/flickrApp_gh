@@ -1,0 +1,3 @@
+flickr
+6a7f82987315bfb17f09076b3a3f5887:key
+5b30b2b16d334296:secret
